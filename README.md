@@ -1,8 +1,8 @@
-PDF Query Answering System 
+**PDF Query Answering System** 
 
 This project enables querying the content of PDF documents using natural language. It extracts text, processes it into chunks, performs semantic search using embeddings, and generates human-like responses with a pre-trained text generation model.
 
-Features
+**Features**
 
 PDF Text Extraction: Reads and processes the content of PDF files.
 Semantic Search: Retrieves the most relevant sections based on user queries.
@@ -10,7 +10,6 @@ Contextual Responses: Generates natural language answers using a pre-trained GPT
 Customizable Workflow: Easily adjust chunk size, top results, and models.
 Requirements
 Python Libraries:
-
 openai
 PyPDF2
 transformers
